@@ -1,3 +1,5 @@
 Texto cualquiera
 Nuevo texto cualquiera
 Modificación local
+Modificación remota
+
